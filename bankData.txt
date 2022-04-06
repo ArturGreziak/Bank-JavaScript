@@ -1,0 +1,1 @@
+[{"name":"Artur","lastName":"Greziak","login":"ArturG74","password":"Ag!211080","bankAccountNumber":2211602202,"accountBalance":1000}]
